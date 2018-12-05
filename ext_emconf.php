@@ -1,6 +1,6 @@
 <?php
 $EM_CONF[$_EXTKEY] = [
-    'title' => 'TYPO3 Backend',
+    'title' => 'TYPO3 Backend patch 1 test-2',
     'description' => 'Classes for the TYPO3 backend.',
     'category' => 'be',
     'state' => 'stable',
